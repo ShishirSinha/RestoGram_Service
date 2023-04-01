@@ -1,0 +1,23 @@
+{
+  "name": "restogram_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShishirSinha/RestoGram_Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShishirSinha/RestoGram_Service/issues"
+  },
+  "homepage": "https://github.com/ShishirSinha/RestoGram_Service#readme"
+}
